@@ -1,3 +1,15 @@
+# Asking to access location
+
+![Capture](https://user-images.githubusercontent.com/60378949/129486055-5e2666fd-e423-49ea-b6e9-aab2fc285899.PNG)
+
+# If it's summer where the user is located
+
+![beach](https://user-images.githubusercontent.com/60378949/129486110-935bd996-f688-44dd-bca4-6a75c47ca80e.PNG)
+
+# If it's winter where the user is located
+
+![chilly](https://user-images.githubusercontent.com/60378949/129486152-382bd5f5-c2f7-4208-8e77-c4a62d171242.PNG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
