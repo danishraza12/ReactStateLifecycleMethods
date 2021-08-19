@@ -3,6 +3,7 @@
 ![Capture](https://user-images.githubusercontent.com/60378949/129486055-5e2666fd-e423-49ea-b6e9-aab2fc285899.PNG)
 
 # If it's summer where the user is located
+(Automatic detection)
 
 ![beach](https://user-images.githubusercontent.com/60378949/129486110-935bd996-f688-44dd-bca4-6a75c47ca80e.PNG)
 
